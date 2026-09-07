@@ -1,14 +1,8 @@
 {
-  "files.associations": {
-    "iostream": "cpp",
-    "ostream": "cpp",
-    "algorithm": "cpp",
-    "unordered_map": "cpp",
-    "vector": "cpp",
-    "cstdlib": "cpp",
-    "cmath": "cpp",
-    "complex": "cpp",
-    "set": "cpp"
-  },
-  "C_Cpp.copilotHover": "default"
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "random": "cpp"
+    }
 }

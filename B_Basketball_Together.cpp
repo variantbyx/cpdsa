@@ -19,7 +19,7 @@ void solve()
 
     for (int i = 0; i < n; i++)
     {
-        int needed = (d + 1 + p[i] - 1) / p[i]; // ceil((d+1)/p[i])
+        int needed = (d + 1 + p[i] - 1) / p[i];
 
         if (players_used + needed <= n)
         {
